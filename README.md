@@ -17,11 +17,6 @@ Make sure you have the following Python packages installed:
 - `Pillow` (PIL)
 - `markdown`
 
-You can install them using pip:
-```sh
-pip install requests Pillow markdown
-```
-
 ## Usage
 
 1. **Export Notes from Joplin**: In Joplin, export your notes using `File > Export All > MD - Markdown + Front Matter` to an empty folder.
