@@ -36,7 +36,7 @@ Make sure you have the following Python packages installed:
 - This script only works on macOS.
 - There may be issues with specific attachments, such as images or PDFs not being processed correctly.
 - Some notes may contain images hosted online, which the script attempts to download. This may fail depending on the availability of the images.
-- Files with "Attachment.png" may require further manual review.
+- RTFD files sometimes end up with "Attachment.png" placeholder images that require further manual review.
 
 ## Logs and Error Handling
 
