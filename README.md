@@ -13,9 +13,10 @@ There may be some errors during the conversion, especially with front matter or 
 ## Prerequisites
 
 Make sure you have the following Python packages installed:
-- `requests`
-- `Pillow` (PIL)
-- `markdown`
+- `requests` (for HTTP requests)
+- `Pillow` (PIL, for image processing)
+- `markdown` (to convert Markdown to HTML)
+- `pyobjc` (for Cocoa and other macOS libraries)
 
 ## Usage
 
